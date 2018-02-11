@@ -1,7 +1,11 @@
 # screeps-server-test
+Private server setup for testing
 
-## Private server setup for testing
+# Note
+For a more complete and easier to use version of this, checkout [Hiryus's](https://github.com/Hiryus)
+project [Hiryus/screeps-server-mockup](https://github.com/Hiryus/screeps-server-mockup)
 
+# Description
 This is a project that runs the Screeps private server one tick at a time, 
 this allows you to easily check data in between ticks and opens the
 possibilities for testing bots in a fixed, known environment.
